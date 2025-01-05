@@ -47,6 +47,6 @@
    ```bash
    git clone https://github.com/your-username/computer-architecture.git
 
-2. 각 프로젝트 폴더로 이동하여 필요한 의존성이나 라이브러리를 설치합니다.
+2. 각 프로젝트 폴더로 이동하여 필요한 라이브러리를 설치합니다.
 
 3. 프로젝트 파일을 컴파일한 후 실행합니다.
